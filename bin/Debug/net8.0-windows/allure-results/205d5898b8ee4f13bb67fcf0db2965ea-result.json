@@ -1,0 +1,65 @@
+{
+  "uuid": "2169ed0f-92f9-4ad1-a329-4300ea2c295c",
+  "historyId": "68e2643f20748016bac72db68ddd8ddb",
+  "testCaseId": "07a0fc02070340534983b43e402f25ae",
+  "fullName": "Test:Test.UnitTest1.Mul()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-CRVRUFQ"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "Test.UnitTest1"
+    },
+    {
+      "name": "testMethod",
+      "value": "Test.UnitTest1.Mul"
+    },
+    {
+      "name": "package",
+      "value": "Test.UnitTest1"
+    },
+    {
+      "name": "owner",
+      "value": "Artemka"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    }
+  ],
+  "links": [
+    {
+      "name": "https://example.com/issue/1234",
+      "url": "https://example.com/issue/1234",
+      "type": "link"
+    }
+  ],
+  "name": "Test.UnitTest1.Mul",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1702555628722,
+  "stop": 1702555628753
+}
